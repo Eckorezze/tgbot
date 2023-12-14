@@ -1,8 +1,6 @@
 db_file: "bot.db"
 
 bot_url: "https://t.me/Eckorezze_Bot"
-token: "6108153923:AAHef61Bs9WGVqktyE_-BEcaDO_cLo0vR-g"
-consumer_key: "106117-7a560abdafc1ad9f756e376"
 auth_server_url: "http://localhost/"
 messages:
   responses:
